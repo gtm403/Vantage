@@ -21,16 +21,23 @@ Contact me at dnote@bu.edu for access or deployment inquiries.
 
 ## Screenshots
 
-### Valorant Stats Command
+### 🗳️ Poll Screenshot
+![Poll Screenshot](Screenshot_20250605_012010_Discord.jpg)
 
+### 🐈 Custom Emoji or Fun Graphic
+![Black Cat](7233-black-cat.png)
 
-### NBA Games Today
+### 📊 Poll UI (Before Vote)
+![Poll UI](Screenshot_20250605_012109_Discord.jpg)
 
+### ✅ Poll After Voting
+![Poll Vote](Screenshot_20250605_012117_Discord.jpg)
 
-### Music Playback
+### 📈 Poll Results Update
+![Poll Results](Screenshot_20250605_012122_Discord.jpg)
 
-
-### Polls
+### 📅 Game Scheduling Confirmation
+![Game Schedule](Screenshot_20250605_012141_Discord.jpg)
 
 ---
 
