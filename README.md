@@ -34,7 +34,7 @@ A full-featured, always-on Discord bot designed for gaming communities — track
 
 ## 🧾 Commands
 
-### 🎮 Valorant Commands
+### Valorant Commands
 | Command | Description |
 |--------|-------------|
 | `!stats NAME#TAG` | View K/D ratio, headshot %, winrate, and account level |
@@ -42,7 +42,7 @@ A full-featured, always-on Discord bot designed for gaming communities — track
 | `!mmr NAME#TAG` | Show current rank, ELO, and peak rank |
 | `!leaderboard [region]` | View top 10 leaderboard players (default: `na`) |
 
-### 🏀 NBA Commands
+### NBA Commands
 | Command | Description |
 |---------|-------------|
 | `!gametoday` | Show today’s NBA games with scores and stat leaders |
@@ -51,27 +51,29 @@ A full-featured, always-on Discord bot designed for gaming communities — track
 | `!roster <team name>` | Show current team roster |
 | `!standings [season] [season_type]` | View conference standings |
 
-### 📊 Polls
+### Polls
 | Command | Description |
 |---------|-------------|
 | `!poll question="..." choices="Option 1, Option 2"` | Create a real-time poll with up to 5 choices |
 
-### 📅 Scheduling
+### Scheduling
 | Command | Description |
 |---------|-------------|
 | `!schedule @users YYYY-MM-DD HH:MM` | Schedule a game and get pinged 5 hours before |
 
-### 🎵 Music
+### Music
 | Command | Description |
 |---------|-------------|
 | `!play <URL or keywords>` | Play music in your voice channel |
 | `!skip` | Skip the current song |
 | `!stop` | Stop and disconnect music |
 
-### 🤖 Bot Info
+### Bot Info
 | Command | Description |
 |---------|-------------|
 | `!about` | Show bot features and help message |
+
+---
 
 
 ## Built With
