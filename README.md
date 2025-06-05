@@ -32,7 +32,7 @@ A full-featured, always-on Discord bot designed for gaming communities — track
 
 ---
 
-## 🧾 Commands
+## Commands
 
 ### Valorant Commands
 | Command | Description |
@@ -77,7 +77,6 @@ A full-featured, always-on Discord bot designed for gaming communities — track
 
 
 ## Built With
-
 - **Python** 3.10
 - **discord.py** 2.x
 - **Wavelink** (music playback)
