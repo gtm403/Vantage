@@ -7,7 +7,7 @@ Contact me at dnote@bu.edu for access or deployment inquiries.
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![discord.py](https://img.shields.io/badge/discord.py-2.x-blue)
 
----
+
 ## 📑 Table of Contents
 
 - [Features](#features)
@@ -29,7 +29,7 @@ Contact me at dnote@bu.edu for access or deployment inquiries.
 - **Game Scheduling**: Ping party members with automatic 5-hour reminders
 - **Music Player**: YouTube music playback using Wavelink and Lavalink
 
----
+
 
 ## Screenshots
 
@@ -48,7 +48,7 @@ Contact me at dnote@bu.edu for access or deployment inquiries.
 ### !about command  
 <img src="Screenshot_20250605_012141_Discord.jpg" alt="Game Schedule" width="300"/>
 
----
+
 
 ## Commands
 
@@ -91,7 +91,6 @@ Contact me at dnote@bu.edu for access or deployment inquiries.
 |---------|-------------|
 | `!about` | Show bot features and help message |
 
----
 
 
 ## Built With
