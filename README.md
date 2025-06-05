@@ -1,6 +1,6 @@
 # Vantage
 
-A full-featured, always-on Discord bot designed for gaming communities — tracks **Valorant stats**, shows **NBA live scores**, handles **music playback**, supports **polls**, and more.
+A versatile Discord bot designed for gaming communities and basketball fans — tracks **Valorant stats**, shows **NBA live scores**, handles **music playback**, supports **polls**, and more.
 
 Contact me at dnote@bu.edu for access or deployment inquiries.
 
