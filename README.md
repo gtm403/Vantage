@@ -21,23 +21,23 @@ Contact me at dnote@bu.edu for access or deployment inquiries.
 
 ## Screenshots
 
-### 🗳️ Poll Screenshot
-![Poll Screenshot](Screenshot_20250605_012010_Discord.jpg)
+### Poll Screenshot  
+<img src="Screenshot_20250605_012010_Discord.jpg" alt="Poll Screenshot" width="500"/>
 
-### 🐈 Custom Emoji or Fun Graphic
-![Black Cat](7233-black-cat.png)
+### Custom Emoji or Fun Graphic  
+<img src="7233-black-cat.png" alt="Black Cat Emoji" width="200"/>
 
-### 📊 Poll UI (Before Vote)
-![Poll UI](Screenshot_20250605_012109_Discord.jpg)
+### Poll UI (Before Vote)  
+<img src="Screenshot_20250605_012109_Discord.jpg" alt="Poll UI Before Vote" width="500"/>
 
-### ✅ Poll After Voting
-![Poll Vote](Screenshot_20250605_012117_Discord.jpg)
+### Poll After Voting  
+<img src="Screenshot_20250605_012117_Discord.jpg" alt="Poll After Vote" width="500"/>
 
-### 📈 Poll Results Update
-![Poll Results](Screenshot_20250605_012122_Discord.jpg)
+### Poll Results Update  
+<img src="Screenshot_20250605_012122_Discord.jpg" alt="Poll Results" width="500"/>
 
-### 📅 Game Scheduling Confirmation
-![Game Schedule](Screenshot_20250605_012141_Discord.jpg)
+### Game Scheduling Confirmation  
+<img src="Screenshot_20250605_012141_Discord.jpg" alt="Game Schedule" width="500"/>
 
 ---
 
