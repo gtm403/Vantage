@@ -4,7 +4,6 @@ A full-featured, always-on Discord bot designed for gaming communities — track
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![discord.py](https://img.shields.io/badge/discord.py-2.x-blue)
-![Status](https://img.shields.io/badge/status-live-brightgreen)
 
 ---
 
