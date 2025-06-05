@@ -7,14 +7,13 @@ A full-featured, always-on Discord bot designed for gaming communities — track
 
 ---
 
-## 🔥 Features
+#Features
 
-- 🎮 **Valorant Integration**: Get K/D ratio, headshot %, winrate, and recent match summaries via `valo_api`
-- 🏀 **NBA Stats**: Live scores, player stats, rosters, standings, and league leaders via `nba_api`
-- 📊 **Polls**: Create interactive, real-time polls with buttons
-- 📅 **Game Scheduling**: Ping party members with automatic 5-hour reminders
-- 🎵 **Music Player**: YouTube music playback using Wavelink and Lavalink
-- ⚙️ Hosted 24/7 on PebbleHost for a 30+ member community
+- **Valorant Integration**: Get K/D ratio, headshot %, winrate, and recent match summaries via `valo_api`
+- **NBA Stats**: Live scores, player stats, rosters, standings, and league leaders via `nba_api`
+- **Polls**: Create interactive, real-time polls with buttons
+- **Game Scheduling**: Ping party members with automatic 5-hour reminders
+- **Music Player**: YouTube music playback using Wavelink and Lavalink
 
 ---
 
