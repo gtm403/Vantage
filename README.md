@@ -22,19 +22,19 @@ Contact me at dnote@bu.edu for access or deployment inquiries.
 ## Screenshots
 
 ### Bot Profile  
-<img src="Screenshot_20250605_012010_Discord.jpg" alt="Poll Screenshot" width="300" height="300"/>
+<img src="Screenshot_20250605_012010_Discord.jpg" alt="Poll Screenshot" width="300"/>
 
 ### !play command  
-<img src="Screenshot_20250605_012109_Discord.jpg" alt="Poll UI Before Vote" width="300" height="300"/>
+<img src="Screenshot_20250605_012109_Discord.jpg" alt="Poll UI Before Vote" width="300"/>
 
 ### !playerstats command  
-<img src="Screenshot_20250605_012117_Discord.jpg" alt="Poll After Vote" width="300" height="300"/>
+<img src="Screenshot_20250605_012117_Discord.jpg" alt="Poll After Vote" width="300"/>
 
 ### !gametoday command  
-<img src="Screenshot_20250605_012122_Discord.jpg" alt="Poll Results" width="300" height="300"/>
+<img src="Screenshot_20250605_012122_Discord.jpg" alt="Poll Results" width="300"/>
 
 ### !about command  
-<img src="Screenshot_20250605_012141_Discord.jpg" alt="Game Schedule" width="300" height="300"/>
+<img src="Screenshot_20250605_012141_Discord.jpg" alt="Game Schedule" width="300"/>
 
 ---
 
