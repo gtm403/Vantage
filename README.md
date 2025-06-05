@@ -2,6 +2,8 @@
 
 A full-featured, always-on Discord bot designed for gaming communities — tracks **Valorant stats**, shows **NBA live scores**, handles **music playback**, supports **polls**, and more.
 
+Contact me at dnote@bu.edu for access or deployment inquiries.
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![discord.py](https://img.shields.io/badge/discord.py-2.x-blue)
 
@@ -84,4 +86,3 @@ A full-featured, always-on Discord bot designed for gaming communities — track
 - **nba_api** (NBA stats)
 - **Lavalink** (hosted audio backend)
 - **PebbleHost + Decodo Proxy** (24/7 deployment and NBA API access)
-- **Contact me at dnote@bu.edu for access or deployment inquiries.
