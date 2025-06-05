@@ -8,7 +8,7 @@ Contact me at dnote@bu.edu for access or deployment inquiries.
 ![discord.py](https://img.shields.io/badge/discord.py-2.x-blue)
 
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Features](#features)
 - [Screenshots](#screenshots)
