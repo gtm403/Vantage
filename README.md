@@ -21,20 +21,20 @@ Contact me at dnote@bu.edu for access or deployment inquiries.
 
 ## Screenshots
 
-### Poll Screenshot  
-<img src="Screenshot_20250605_012010_Discord.jpg" alt="Poll Screenshot" width="500"/>
+### Bot  
+<img src="Screenshot_20250605_012010_Discord.jpg" alt="Poll Screenshot" width="300"/>
 
-### Poll UI (Before Vote)  
-<img src="Screenshot_20250605_012109_Discord.jpg" alt="Poll UI Before Vote" width="500"/>
+### Poll UI 
+<img src="Screenshot_20250605_012109_Discord.jpg" alt="Poll UI Before Vote" width="300"/>
 
-### Poll After Voting  
-<img src="Screenshot_20250605_012117_Discord.jpg" alt="Poll After Vote" width="500"/>
+### Poll
+<img src="Screenshot_20250605_012117_Discord.jpg" alt="Poll After Vote" width="300"/>
 
-### Poll Results Update  
-<img src="Screenshot_20250605_012122_Discord.jpg" alt="Poll Results" width="500"/>
+### Poll Results Update
+<img src="Screenshot_20250605_012122_Discord.jpg" alt="Poll Results" width="300"/>
 
-### Game Scheduling Confirmation  
-<img src="Screenshot_20250605_012141_Discord.jpg" alt="Game Schedule" width="500"/>
+### Game Scheduling
+<img src="Screenshot_20250605_012141_Discord.jpg" alt="Game Schedule" width="300"/>
 
 ---
 
