@@ -21,17 +21,14 @@ Contact me at dnote@bu.edu for access or deployment inquiries.
 
 ## Screenshots
 
-| Bot Profile | !play Command |
-|-------------|---------------|
-| <img src="Screenshot_20250605_012010_Discord.jpg" width="300"/> | <img src="Screenshot_20250605_012109_Discord.jpg" width="300"/> |
+### Bot Profile & !play Command  
+<img src="Screenshot_20250605_012010_Discord.jpg" width="300"/> <img src="Screenshot_20250605_012109_Discord.jpg" width="300"/>
 
-| !playerstats Command | !gametoday Command |
-|----------------------|--------------------|
-| <img src="Screenshot_20250605_012117_Discord.jpg" width="300"/> | <img src="Screenshot_20250605_012122_Discord.jpg" width="300"/> |
+### !playerstats & !gametoday  
+<img src="Screenshot_20250605_012117_Discord.jpg" width="300"/> <img src="Screenshot_20250605_012122_Discord.jpg" width="300"/>
 
-| !about Command | |
-|----------------|--|
-| <img src="Screenshot_20250605_012141_Discord.jpg" width="300"/> | |
+### !about Command  
+<img src="Screenshot_20250605_012141_Discord.jpg" width="300"/>
 
 
 ---
