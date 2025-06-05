@@ -1,0 +1,7 @@
+discord.py
+wavelink==3.4.1
+python-dotenv
+nba_api
+valo-api
+pandas
+pytz
