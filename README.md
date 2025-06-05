@@ -24,9 +24,6 @@ Contact me at dnote@bu.edu for access or deployment inquiries.
 ### Poll Screenshot  
 <img src="Screenshot_20250605_012010_Discord.jpg" alt="Poll Screenshot" width="500"/>
 
-### Custom Emoji or Fun Graphic  
-<img src="7233-black-cat.png" alt="Black Cat Emoji" width="200"/>
-
 ### Poll UI (Before Vote)  
 <img src="Screenshot_20250605_012109_Discord.jpg" alt="Poll UI Before Vote" width="500"/>
 
