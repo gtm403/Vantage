@@ -84,3 +84,4 @@ A full-featured, always-on Discord bot designed for gaming communities — track
 - **nba_api** (NBA stats)
 - **Lavalink** (hosted audio backend)
 - **PebbleHost + Decodo Proxy** (24/7 deployment and NBA API access)
+- **Contact me at dnote@bu.edu for access or deployment inquiries.
