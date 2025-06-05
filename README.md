@@ -8,6 +8,18 @@ Contact me at dnote@bu.edu for access or deployment inquiries.
 ![discord.py](https://img.shields.io/badge/discord.py-2.x-blue)
 
 ---
+## 📑 Table of Contents
+
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Commands](#commands)
+  - [Valorant Commands](#valorant-commands)
+  - [NBA Commands](#nba-commands)
+  - [Polls](#polls)
+  - [Scheduling](#scheduling)
+  - [Music](#music)
+  - [Bot Info](#bot-info)
+- [Built With](#built-with)
 
 ## Features
 
